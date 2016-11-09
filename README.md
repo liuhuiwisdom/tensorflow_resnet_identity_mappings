@@ -3,6 +3,8 @@
 Residual neural network with identity mappings as described in paper:
 https://arxiv.org/abs/1603.05027
 
+Built with TensorFlow.
+
 resnet34_im_1000_classes.py: ImageNet ready ResNet34 with identity mappings. Could be easily extended to any number of layers.
 
 abstractions.py: contains building blocks for ResNet with identity mappings. 
